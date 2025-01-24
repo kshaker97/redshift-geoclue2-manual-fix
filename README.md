@@ -31,4 +31,5 @@ lat=51.5074
 lon=-0.1278
 ```
 3. **Save the file and exit the text editor**
-4. **Test Redshift: Run Redshift to make sure it uses the manual location**
+4. **Test Redshift:**
+Run Redshift to make sure it uses the manual location
