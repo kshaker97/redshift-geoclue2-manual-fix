@@ -23,12 +23,12 @@ nano ~/.config/redshift/redshift.conf
 2. **Set the location to manual:**
 In the configuration file, add the following lines to specify your latitude and longitude manually. Replace 51.5074 and -0.1278 with your actual coordinates. You can obtain them from https://www.latlong.net/.
 ```
-       [redshift]
-       location-provider=manual
+[redshift]
+location-provider=manual
        
-       [manual]
-       lat=51.5074
-       lon=-0.1278
+[manual]
+lat=51.5074
+lon=-0.1278
 ```
 3. **Save the file and exit the text editor**
 4. **Test Redshift: Run Redshift to make sure it uses the manual location**
